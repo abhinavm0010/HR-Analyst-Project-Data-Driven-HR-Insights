@@ -48,11 +48,11 @@ This project serves as a valuable resource for HR teams, business analysts, and 
   
 - Attrition rate Vs Year since last promotion relation
   
-- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232816.png">in Excel</a>
+- Dashboard Interaction in <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232816.png">Excel</a>
 
-- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232902.png">in Power BI</a>
+- Dashboard Interaction in <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232902.png">Power BI</a>
 
-- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20233006.png">in Tableau</a>
+- Dashboard Interaction in <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20233006.png">Tableau</a>
 
 ## 🔄 Project Process: HR Analyst – Data-Driven Workforce Insights
 This project follows a structured data analytics workflow to extract meaningful insights from HR data. Below is the step-by-step process:
