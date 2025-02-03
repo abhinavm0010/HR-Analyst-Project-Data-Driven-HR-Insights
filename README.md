@@ -28,3 +28,16 @@ Key Goals:
 ✅ Predictive HR Analytics – Implement machine learning models to forecast HR trends.
 
 This project serves as a valuable resource for HR teams, business analysts, and data scientists seeking to optimize workforce management using data analytics and visualization. 🚀
+
+## Dataset Used
+- <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/HR_1.xlsx">Dataset for HR Analysis</a>
+- <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/HR_2.xlsx">Dataset for HR Analysis</a>
+
+## Questions (KPIs)
+
+- Average Attrition rate for all Departments 
+- Average Hourly rate of Male Research Scientist
+- Attrition rate Vs Monthly income stats
+- Average working years for each Department
+- Job Role Vs Work life balance
+- Attrition rate Vs Year since last promotion relation
