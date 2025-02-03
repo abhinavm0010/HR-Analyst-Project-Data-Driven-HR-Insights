@@ -92,3 +92,13 @@ Document methodologies, data sources, and key insights.
 Prepare a final presentation or HR report with actionable recommendations.
 
 🚀 Outcome: A comprehensive HR analytics project that helps HR teams make strategic, data-driven workforce decisions!
+
+## Dashboards
+Excel
+![Screenshot 2025-02-03 232816](https://github.com/user-attachments/assets/bdb66f81-912d-4fc5-ad30-058ac7bacd03)
+Power BI
+![Screenshot 2025-02-03 232902](https://github.com/user-attachments/assets/4c0ce3a3-a16a-46c5-8bf0-cfe83c07b82b)
+Tableau
+![Screenshot 2025-02-03 233006](https://github.com/user-attachments/assets/d72468f9-2892-4619-914b-7fb4ce61b329)
+
+
