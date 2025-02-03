@@ -41,6 +41,6 @@ This project serves as a valuable resource for HR teams, business analysts, and 
 - Average working years for each Department
 - Job Role Vs Work life balance
 - Attrition rate Vs Year since last promotion relation
-- Dashboard Interaction in Excel <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232816.png"></a>
-- Dashboard Interaction in Power BI <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232902.png"></a>
-- Dashboard Interaction in Tableau <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20233006.png"></a>
+- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232816.png">in Excel</a>
+- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232902.png">in Power BI</a>
+- Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20233006.png">in Tableau</a>
