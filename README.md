@@ -16,6 +16,7 @@ HR Analyst project, leveraging data analytics and visualization to uncover key w
 The objective of this project is to leverage data analytics to improve human resource management by analyzing workforce trends, employee performance, and attrition factors. Through data-driven insights, this project aims to help HR professionals make informed decisions that enhance employee retention, productivity, and overall organizational efficiency.
 
 Key Goals:
+
 ✅ Identify Attrition Patterns – Understand why employees leave and predict potential churn.
 
 ✅ Analyze Employee Performance – Discover factors influencing high and low performers.
