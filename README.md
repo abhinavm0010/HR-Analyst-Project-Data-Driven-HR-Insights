@@ -31,18 +31,27 @@ This project serves as a valuable resource for HR teams, business analysts, and 
 
 ## Dataset Used
 - <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/HR_1.xlsx">Dataset for HR Analysis</a>
+
 - <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/HR_2.xlsx">Dataset for HR Analysis</a>
 
 ## Questions (KPIs)
 
 - Average Attrition rate for all Departments
+  
 - Average Hourly rate of Male Research Scientist
+  
 - Attrition rate Vs Monthly income stats
+  
 - Average working years for each Department
+  
 - Job Role Vs Work life balance
+  
 - Attrition rate Vs Year since last promotion relation
+  
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232816.png">in Excel</a>
+
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20232902.png">in Power BI</a>
+
 - Dashboard Interaction <a href="https://github.com/abhinavm0010/HR-Analyst-Project-Data-Driven-HR-Insights/blob/main/Screenshot%202025-02-03%20233006.png">in Tableau</a>
 
 ## 🔄 Project Process: HR Analyst – Data-Driven Workforce Insights
@@ -51,27 +60,33 @@ This project follows a structured data analytics workflow to extract meaningful 
 - Data Collection & Understanding
 Gather HR datasets from internal records, surveys, or open-source sources.
 Understand dataset structure, features, and key variables (e.g., employee tenure, salary, department, attrition).
+
 - Data Cleaning & Preprocessing
 Handle missing values and inconsistencies.
 Remove duplicate or irrelevant data.
 Standardize categorical variables (e.g., job roles, department names).
 Convert date/time formats if needed.
+
 - Exploratory Data Analysis (EDA)
 Generate descriptive statistics (mean, median, mode, variance, etc.).
 Create visualizations (bar charts, histograms, box plots, correlation heatmaps).
 Identify trends in attrition rates, promotions, salaries, and employee performance.
+
 - Feature Engineering & Data Transformation
 Create new variables based on existing data (e.g., tenure in months, work-life balance score).
 Encode categorical variables (e.g., one-hot encoding, label encoding).
 Normalize or scale numerical data for machine learning models.
+
 - Predictive Analytics & Modeling (Optional)
 Train machine learning models (e.g., Decision Trees, Random Forest, Logistic Regression) to predict employee attrition.
 Evaluate models using accuracy, precision, recall, and F1-score.
 Interpret feature importance to understand the biggest attrition drivers.
+
 - Data Visualization & Insights Reporting
 Develop interactive dashboards in Power BI/Tableau for HR teams.
 Summarize key findings in reports (e.g., most common reasons for attrition, salary gaps).
 Provide data-driven recommendations for HR decision-making.
+
 - Documentation & Final Report
 Document methodologies, data sources, and key insights.
 Prepare a final presentation or HR report with actionable recommendations.
