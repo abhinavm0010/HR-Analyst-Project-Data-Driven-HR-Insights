@@ -101,4 +101,37 @@ Power BI
 Tableau
 ![Screenshot 2025-02-03 233006](https://github.com/user-attachments/assets/d72468f9-2892-4619-914b-7fb4ce61b329)
 
+## 📊 Project Insights: HR Analyst – Workforce Trends & Key Findings
+After analyzing the HR dataset, several key insights emerge that can help organizations improve employee retention, engagement, and productivity. Below are some significant findings:
 
+- 🔍Employee Attrition Trends
+  
+✅ High Attrition in Specific Departments – Sales and Customer Support show the highest turnover rates.
+
+✅ Work Tenure & Attrition – Employees with 1-3 years of experience are more likely to leave, indicating retention challenges in the early career stage.
+
+✅ Salary & Exit Rates – Low salary growth is a major factor contributing to voluntary resignations.
+
+- 📈Employee Performance & Productivity
+  
+✅ Top Performers Stay Longer – Employees with higher performance ratings tend to have longer tenures.
+
+✅ Overtime & Burnout Risk – Employees working excessive overtime show higher attrition rates, highlighting the need for better work-life balance.
+
+✅ Training Impact – Employees who received frequent training showed improved performance and retention.
+
+- 📊Workforce Demographics & Diversity
+  
+✅ Gender Distribution – Male and female employees are evenly distributed, but women are underrepresented in leadership roles.
+
+✅ Age & Retention – Younger employees (below 30) tend to switch jobs more frequently compared to mid-career professionals.
+
+✅ Education & Job Roles – Higher education levels correlate with senior positions, but not necessarily with job satisfaction.
+
+- ⚡Key Drivers of Employee Satisfaction & Engagement
+  
+✅ Flexible Work Options Reduce Attrition – Employees with hybrid/remote work arrangements report higher job satisfaction.
+
+✅ Career Growth Matters – Employees with limited promotion opportunities have higher resignation rates.
+
+✅ Managerial Support Is Critical – Teams with engaged and supportive managers have lower attrition rates.
