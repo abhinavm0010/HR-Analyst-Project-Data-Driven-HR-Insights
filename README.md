@@ -11,3 +11,19 @@ HR Analyst project, leveraging data analytics and visualization to uncover key w
 ✅ Predictive Modeling – Using machine learning techniques to predict employee attrition.
 
 ✅ Interactive Dashboards – Power BI/Tableau dashboards for intuitive HR reporting.
+
+## 🎯 Project Objective: HR Analyst – Data-Driven Workforce Insights
+The objective of this project is to leverage data analytics to improve human resource management by analyzing workforce trends, employee performance, and attrition factors. Through data-driven insights, this project aims to help HR professionals make informed decisions that enhance employee retention, productivity, and overall organizational efficiency.
+
+Key Goals:
+✅ Identify Attrition Patterns – Understand why employees leave and predict potential churn.
+
+✅ Analyze Employee Performance – Discover factors influencing high and low performers.
+
+✅ Workforce Demographics & Diversity – Gain insights into employee distribution by age, gender, experience, etc.
+
+✅ Optimize Recruitment & Retention – Use data-driven strategies to improve hiring and reduce turnover.
+
+✅ Predictive HR Analytics – Implement machine learning models to forecast HR trends.
+
+This project serves as a valuable resource for HR teams, business analysts, and data scientists seeking to optimize workforce management using data analytics and visualization. 🚀
